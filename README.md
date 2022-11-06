@@ -33,6 +33,10 @@
  </p>
  </a>
 
+ # 📈 Coding Profile:
+  <p align="center">
+<img src="https://leetcard.jacoblin.cool/akash_prap?theme=dark&font=Poppins&ext=heatmap"/><br><br>
+</p>
 		
  # 📈 GitHub Activity Graph:
  <p align="center">
