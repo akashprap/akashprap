@@ -1,8 +1,8 @@
 [![@akashprap's Holopin board](https://holopin.me/akashprap)](https://holopin.io/@akashprap)
 
 # Hi there, I'm Akash Prajapati
-- I'm  **Learner** | **Programmer** 
-- Currently practicing **Machine Learning**
+- I'm  **Learner** | **Programmer** | **Problem Solver**  
+- Currently practicing **Machine Learning** and **Langchain**
 - Willing to contribute more and more in **Open Source Projects**
  <br>
   
@@ -18,7 +18,8 @@
   # 🏆 GitHub Profile Trophy:
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=akashprap&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=akashprap&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
+<!--   <img width=800 src="https://github-profile-trophy.vercel.app/?username=akashprap&column=8&theme=darkhub&no-frame=true&no-bg=true"/> -->
 </a>
 </p>
 
